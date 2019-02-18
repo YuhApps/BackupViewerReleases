@@ -1,1 +1,1 @@
-Releases of BackupViewer for Android, which is found at git remote add origin https://github.com/YuhApps/BackupViewerReleases.git
+Releases of BackupViewer for Android, which is found at git remote add origin https://yuhapps.github.io/backup.html
